@@ -1,2 +1,2 @@
 # covidpeakpred
-Hactoberfest repo or people trying to predict coronavirus peak in India
+Hactoberfest repo for people trying to predict coronavirus peak in India
