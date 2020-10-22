@@ -1,4 +1,2 @@
 # covidpeakpred
-Add some code to predict this
-
-Add some python code
+Hactoberfest repo or people trying to predict coronavirus peak in India
